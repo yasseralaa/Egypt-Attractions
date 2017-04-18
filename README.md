@@ -1,7 +1,7 @@
 Egypt Attractions
 =============
 
-![ScreenShot](https://github.com/yasseralaa/ajaxcalendar/blob/master/Screenshot.png)
+![ScreenShot](https://github.com/yasseralaa/Egypt-Attractions/blob/master/Screenshot.png)
 
 **Description**
 
